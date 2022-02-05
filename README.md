@@ -1,2 +1,2 @@
 # Odin landing Page
-This in a tutorial project by [TheOdinProject] (https://theodinproject.com)
+This in a tutorial project by [TheOdinProjectv] (https://www.theodinproject.com/)
