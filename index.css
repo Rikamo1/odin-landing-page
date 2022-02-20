@@ -176,7 +176,7 @@ body {
 #bottom-card-container {
     background-color: #3882F6;
     border-radius: 10px;
-    margin: 10% 10%;
+    margin: 5% 10%;
     color: #E5E7EB;
 }
 
@@ -187,7 +187,7 @@ body {
     background-color: #3882F6;
     border: #E5E7EB 1px solid;
     border-radius: 5px;
-    padding: 5px 2px;
+    padding: 7px 10px;
 }
 
 #signup-card-title {
